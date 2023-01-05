@@ -4,7 +4,7 @@ Quy's dotfiles, aimed to be portable across platforms and environments
 
 ## Quickstark
 
-### Idempotent install script
+Run this idempotent install script
 ```
 ./install.sh
 ```
