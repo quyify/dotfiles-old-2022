@@ -17,5 +17,5 @@ Quy's dotfiles, aimed to be portable across platforms and environments
 ## Uses:
 * nix-env 
   * As a cross-platform package manager
-* gnu-stow to 
+* gnu-stow
   * As a symlink manager to create symlinks into ~/
