@@ -8,8 +8,8 @@ Quy's dotfiles, aimed to be portable across platforms and environments
 ```
 ./install.sh
 ```
-👆 That will
-1. Nix if not already installed
+👆 That will:
+1. Install Nix if not already installed
 2. Install Quy's commonly used packages (zsh, neovim, tmux, lazygit, etc)
 3. Put symlinks for various dotfile configurations into  ~/
 4. Reload the shell (zsh)
