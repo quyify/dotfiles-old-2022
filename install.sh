@@ -59,7 +59,7 @@ if [[ ! -f ~/.tmux/plugins/tpm/bin/install_plugins ]]; then
 	~/.tmux/plugins/tpm/bin/install_plugins
 else
 	# Update plugins
-	command -v ~/.tmux/plugins/tpm/bin/update_plugins all
+	~/.tmux/plugins/tpm/bin/update_plugins all
 fi
 
 
